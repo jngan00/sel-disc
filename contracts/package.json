@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@oasisprotocol/sapphire-hardhat": "^2.12.7",
+    "hardhat": "^2.17.0",
+    "hardhat-deploy": "^0.11.34"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+    "@oasisprotocol/sapphire-contracts": "^0.2.3",
+    "@openzeppelin/contracts": "^4.9.3",
+    "chai": "^4.3.7",
+    "typescript": "^5.1.6"
+  }
+}
